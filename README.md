@@ -16,7 +16,7 @@ Certificates created by `pem` module and saved into a module for import by other
 
 ## Usage
 
-```
+```js
 
 const https = require('https');
 const snakeoil = require('@dazld/snakeoil-certs');
