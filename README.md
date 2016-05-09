@@ -7,8 +7,11 @@ Certificates created by `pem` module and saved into a module for import by other
 ## Exports
 
 `csr` - cert signing request
+
 `clientKey` - certificate key
+
 `certificate` - the https cert itself
+
 `serviceKey` - service key
 
 ## Usage

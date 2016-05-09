@@ -1,7 +1,6 @@
 {
   "name": "@dazld/snakeoil-certs",
-  "private": false,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "HTTPS self signed certs",
   "main": "index.js",
   "scripts": {
