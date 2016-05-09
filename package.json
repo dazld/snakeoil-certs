@@ -1,0 +1,16 @@
+{
+  "name": "@dazld/snakeoil-certs",
+  "private": false,
+  "version": "1.0.0",
+  "description": "HTTPS self signed certs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "https",
+    "certificate"
+  ],
+  "author": "Dan Peddle <dan@flarework.com>",
+  "license": "MIT"
+}
